@@ -1,16 +1,20 @@
+
+
+<p align="center">
+<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
+</p>
+
 ### Hi there 👋
 
-<!--
-**Hritam06/Hritam06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is Hritam Dutta, I am someone who is intrested to learn new techstacks and enhance my skillset. I am really passionate and keen to learn Python, AI, Machine Learning, Deep Learning, Cloud Computing, Mobile App Development. I like to make my contributions in some of the open source projects which support my skillset💝💖💝. 
+<ul>
+  <li>😝 🐍 Intrested and learning Python 🐍 😝</li>
+  <li>💻 Intrested and learning AI, Machine Learning and Deep Learning 💻</li>
+  <li>📱 Intrested and learning Mobile App Development 📱</li>
+  <li>🌨 Intrested and learning Cloud Computing 🌨</li>
+  <li>😍 Let's Connect: <a href="https://www.linkedin.com/in/hritam-dutta06/">Linkedin ---->>> Hritam Dutta</a> 😍</li> 
+  <li>📫 Contact Me: <a href="mailto:hritam.dutta.official@gmail.com">hritam.dutta.official@gmail.com</a> 📫</li>
+  <li>🕹️ Open Source Contributor 🕹️</li>
+  <li>⚡ Languages:Python,C,Java ⚡</li>
+  <li>🥰 Love To Interact With People 🥰</li>
+</ul>
