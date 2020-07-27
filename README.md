@@ -15,6 +15,6 @@ This is Hritam Dutta, I am someone who is intrested to learn new techstacks and 
   <li>😍 Let's Connect: <a href="https://www.linkedin.com/in/hritam-dutta06/">Linkedin ---->>> Hritam Dutta</a> 😍</li> 
   <li>📫 Contact Me: <a href="mailto:hritam.dutta.official@gmail.com">hritam.dutta.official@gmail.com</a> 📫</li>
   <li>🕹️ Open Source Contributor 🕹️</li>
-  <li>⚡ Languages:Python,C,Java ⚡</li>
+  <li>⚡ Languages:Python,Java,C ⚡</li>
   <li>🥰 Love To Interact With People 🥰</li>
 </ul>
