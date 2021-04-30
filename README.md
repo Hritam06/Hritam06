@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-This is Hritam Dutta, I am someone who is intrested to learn new techstacks and enhance my skillset. I am really passionate and keen to learn Python, AI, Machine Learning, Deep Learning, Cloud Computing, Mobile App Development. I like to make my contributions in some of the open source projects which support my skillset💝💖💝. 
+This is Hritam Dutta, I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate and keen to learn Python, Cyber Security and Ethical Hacking. I like to make my contributions in some of the open source projects which support my skillset💝💖💝. 
 <ul>
   <li>😝 🐍 Interested and learning Python 🐍 😝</li>
   <li>😍 Let's Connect: <a href="https://www.linkedin.com/in/hritam-dutta06/">Linkedin ---->>> Hritam Dutta</a> 😍</li> 
