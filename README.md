@@ -21,7 +21,7 @@ This is Hritam Dutta, I am someone who is interested to learn new techstacks and
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=radical" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=algolia" width="320" />
 </p>
 
 <p align="center">
