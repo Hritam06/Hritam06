@@ -21,12 +21,12 @@ This is Hritam Dutta, I am someone who is interested to learn new techstacks and
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=algolia" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=github_dark" width="320" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hritam06&show_icons=true&theme=dark&title_color=ab06b7&locale=en&layout=compact" width="318" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritam06&theme=radical&hide_border=true" width="320" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hritam06&show_icons=true&theme=github_dark&title_color=ab06b7&locale=en&layout=compact" width="318" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritam06&theme=github_dark&hide_border=true" width="320" /> 
 </p>
 
 <p align="center">
