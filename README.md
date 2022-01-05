@@ -5,7 +5,7 @@
 <h2 align="center">Hello there...!!!<br></h2>
 <h1 align="center">I am Hritam Dutta  🙈🤩❤️🤩🙈<br></h1>
 
-<h2 align="center">I am a Computer Science Engineering Undergraduate, an Actor and a Performer❤️</h2>
+<h3 align="center">I am a Computer Science Engineering Undergraduate, an Actor and a Performer❤️</h3>
 
 <p align="center">
   😝 🐍 Interested and learning Python 🐍 😝 <br>
