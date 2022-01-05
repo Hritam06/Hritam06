@@ -2,9 +2,12 @@
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
 </p>
 
-### Hi there 👋
+<h1 align="center">Hello there...! I'm Hritam Dutta. 👋🤓</h1>
 
-This is Hritam Dutta, I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate and keen to learn Python, Cyber Security and Ethical Hacking. I like to make my contributions in some of the open source projects which support my skillset💝💖💝. 
+<p align="center">I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate and keen to learn Python, Cyber Security and Ethical Hacking. I like to make my contributions in some of the open source projects which support my skillset💝💖💝. 
+</p>
+
+<p align="center">
 <ul>
   <li>😝 🐍 Interested and learning Python 🐍 😝</li>
   <li>😍 Let's Connect: <a href="https://www.linkedin.com/in/hritam-dutta06/">Linkedin ---->>> Hritam Dutta</a> 😍</li> 
@@ -13,6 +16,7 @@ This is Hritam Dutta, I am someone who is interested to learn new techstacks and
   <li>⚡ Languages:Python,C,C++ ⚡</li>
   <li>🥰 Love To Interact With People 🥰</li>
 </ul>
+</p>
 
 <!--
 <p align="center">
