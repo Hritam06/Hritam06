@@ -13,3 +13,17 @@ This is Hritam Dutta, I am someone who is interested to learn new techstacks and
   <li>⚡ Languages:Python,C,C++ ⚡</li>
   <li>🥰 Love To Interact With People 🥰</li>
 </ul>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=radical" width="320" />
+  <img src="https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif" width="320" /> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hritam06&show_icons=true&theme=dark&title_color=ab06b7&locale=en&layout=compact" width="318" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritam06&theme=radical&hide_border=true" width="320" /> 
+</p>
+
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Hritam06&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=false">
+</p>
