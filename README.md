@@ -2,20 +2,18 @@
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
 </p>
 
-<h1 align="center">Hello there...! I'm Hritam Dutta. 👋🤓</h1>
+<h2 align="center">Hello there...!!!<br></h2>
+<h1 align="center">I am Hritam Dutta  🙈🤩❤️🤩🙈<br></h1>
 
-<p align="center">I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate and keen to learn Python, Cyber Security and Ethical Hacking. I like to make my contributions in some of the open source projects which support my skillset💝💖💝. 
-</p>
+<h2 align="center">I am a Computer Science Engineering Undergraduate, an Actor and a Performer❤️</h2>
 
 <p align="center">
-<ul>
-  <li>😝 🐍 Interested and learning Python 🐍 😝</li>
-  <li>😍 Let's Connect: <a href="https://www.linkedin.com/in/hritam-dutta06/">Linkedin ---->>> Hritam Dutta</a> 😍</li> 
-  <li>📫 Contact Me: <a href="mailto:hritam.dutta.official@gmail.com">hritam.dutta.official@gmail.com</a> 📫</li>
-  <li>🕹️ Open Source Contributor 🕹️</li>
-  <li>⚡ Languages:Python,C,C++ ⚡</li>
-  <li>🥰 Love To Interact With People 🥰</li>
-</ul>
+  😝 🐍 Interested and learning Python 🐍 😝 <br>
+  😍 Let's Connect: <a href="https://www.linkedin.com/in/hritam-dutta06/">Linkedin ---->>> Hritam Dutta</a> 😍 <br>
+  📫 Contact Me: <a href="mailto:hritam.dutta.official@gmail.com">hritam.dutta.official@gmail.com</a> 📫<br>
+  🕹️ Open Source Contributor 🕹️<br>
+  ⚡ Languages:Python,C,C++ ⚡<br>
+  🥰 Love To Interact With People 🥰<br>
 </p>
 
 <!--
