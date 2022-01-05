@@ -15,6 +15,10 @@ This is Hritam Dutta, I am someone who is interested to learn new techstacks and
 </ul>
 
 <p align="center">
+<a href="https://github.com/Hritam06"><img src="https://img.shields.io/github/followers/Hritam06?style=social"></a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=radical" width="320" />
 </p>
 
