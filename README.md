@@ -2,25 +2,25 @@
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
 </p>
 
-<h2 align="center">Hello there...!!!<br></h2>
+<h2 align="center">Hi there <img src="https://github.com/Hritam06/Hritam06/blob/master/gifs/Hi.gif" width="40px"><br></h2>
 <h1 align="center">I am Hritam Dutta  🙈🤩❤️🤩🙈<br></h1>
+<h1 align="center">Indian 🇮🇳<br></h1>
 
 <h3 align="center">I am a Computer Science Engineering Undergraduate, an Actor and a Performer❤️</h3>
 
-<p align="center">
-  😝 🐍 Interested and learning Python 🐍 😝 <br>
-  😍 Let's Connect: <a href="https://www.linkedin.com/in/hritam-dutta06/">Linkedin ---->>> Hritam Dutta</a> 😍 <br>
-  📫 Contact Me: <a href="mailto:hritam.dutta.official@gmail.com">hritam.dutta.official@gmail.com</a> 📫<br>
-  🕹️ Open Source Contributor 🕹️<br>
-  ⚡ Languages:Python,C,C++ ⚡<br>
-  🥰 Love To Interact With People 🥰<br>
-</p>
+<p align="center">I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate towards learning Flutter, Python, Cyber Security and Ethical Hacking 🔥</p>
 
-<!--
+<div align="center"><b><i>Follow Me 🙈</i><br><br>
+
+<a href="https://www.linkedin.com/in/hritam-dutta06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_hritamdutta_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/_hritamdutta_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://github.com/Hritam06" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</div>  
+
 <p align="center">
 <a href="https://github.com/Hritam06"><img src="https://img.shields.io/github/followers/Hritam06?style=social"></a>
 </p>
--->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=github_dark" width="320" />
@@ -31,6 +31,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritam06&theme=radical" width="320" /> 
 </p>
 
+<div align="center"> 
+<b><i>Random dev joke for you...!!! 👇</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+</div>   
+<!--
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Hritam06&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=false">
 </p>
