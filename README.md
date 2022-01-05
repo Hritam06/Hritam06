@@ -16,7 +16,6 @@ This is Hritam Dutta, I am someone who is interested to learn new techstacks and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=radical" width="320" />
-  <img src="https://user-images.githubusercontent.com/60352282/129490045-18e3ebc4-540c-4a3d-b727-b5954fda091c.gif" width="320" /> 
 </p>
 
 <p align="center">
