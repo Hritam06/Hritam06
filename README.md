@@ -10,7 +10,7 @@
 
 <p align="center">Passionate about Securing the Digital World 🌐</p>
 
-<div align="center"><b><i>Let's Connect</i><br><br>
+<div align="center"><b><i>Let's Connect 🤝</i><br><br>
 
 <a href="https://www.linkedin.com/in/hritam-dutta06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Hritam06" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
