@@ -3,18 +3,16 @@
 </p>
 
 <h2 align="center">Hi there <img src="https://github.com/Hritam06/Hritam06/blob/master/gifs/Hi.gif" width="40px"><br></h2>
-<h1 align="center">I am Hritam Dutta  🙈🤩❤️🤩🙈<br></h1>
+<h1 align="center"> Hritam Dutta <br></h1>
 <h1 align="center">Indian 🇮🇳<br></h1>
 
-<h3 align="center">I am a Computer Science Engineering Undergraduate, an Actor and a Performer❤️</h3>
+<h3 align="center">I am a Cyber Security Associate in PwC India</h3>
 
-<p align="center">I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate towards learning Flutter, Python, Cyber Security and Ethical Hacking 🔥</p>
+<p align="center">I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate towards learning Cyber Security 🔥</p>
 
 <div align="center"><b><i>Follow Me 🙈</i><br><br>
 
 <a href="https://www.linkedin.com/in/hritam-dutta06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_hritamdutta_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/_hritamdutta_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/Hritam06" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </div>  
 
