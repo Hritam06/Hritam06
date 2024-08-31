@@ -8,7 +8,7 @@
 
 <h2 align="center"> Cyber Security Associate | PwC India </h2>
 
-<p align="center">Passionate about Securing the Digital World 🌐</p>
+<p align="center"><u>Passionate about Securing the Digital World 🌐</u></p>
 
 <div align="center"><b><i>Let's Connect 🤝</i><br><br>
 
