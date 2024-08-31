@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hi there <img src="https://github.com/Hritam06/Hritam06/blob/master/gifs/Hi.gif" width="40px"><br></h2>
-<h1 align="center"> Hritam Dutta <br></h1>
+<h1 align="center"> Hritam Dutta 😊<br></h1>
 <h1 align="center">Indian 🇮🇳<br></h1>
 
 <h3 align="center">I am a Cyber Security Associate in PwC India</h3>
