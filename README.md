@@ -6,7 +6,7 @@
 <h1 align="center"> Hritam Dutta 😊<br></h1>
 <h1 align="center">Indian 🇮🇳<br></h1>
 
-<h3 align="center"> I am a Cyber Security Associate | PwC India </h3>
+<h3 align="center"> Cyber Security Associate | PwC India </h3>
 
 <p align="center">I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate towards learning Cyber Security 🔥</p>
 
