@@ -3,14 +3,14 @@
 </p>
 
 <h2 align="center">Hi there <img src="https://github.com/Hritam06/Hritam06/blob/master/gifs/Hi.gif" width="40px"><br></h2>
-<h1 align="center"> Hritam Dutta 😊<br></h1>
+<h1 align="center">Hritam Dutta<br></h1>
 <h1 align="center">Indian 🇮🇳<br></h1>
 
 <h3 align="center"> Cyber Security Associate | PwC India </h3>
 
 <p align="center">I am someone who is interested to learn new techstacks and enhance my skillset. I am really passionate towards learning Cyber Security 🔥</p>
 
-<div align="center"><b><i>Follow Me 🙈</i><br><br>
+<div align="center"><b><i>Let's Connect</i><br><br>
 
 <a href="https://www.linkedin.com/in/hritam-dutta06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Hritam06" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
