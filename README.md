@@ -6,7 +6,7 @@
 <h1 align="center">Hritam Dutta<br></h1>
 <h1 align="center">Indian 🇮🇳<br></h1>
 
-<h2 align="center"> Confidentiality and Privacy Risk Analyst | Deloitte USI </h2>
+<h2 align="center"> Cyber Security Consultant / SOC Analyst | Deloitte USI </h2>
 
 <p align="center">Passionate about Securing the Digital World 🌐</p>
 
