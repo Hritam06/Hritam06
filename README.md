@@ -1,39 +1,73 @@
-<p align="center">
-<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
-</p>
+# Hi, I am Hritam Dutta 👋
 
-<h2 align="center">Hi there <img src="https://github.com/Hritam06/Hritam06/blob/master/gifs/Hi.gif" width="40px"><br></h2>
-<h1 align="center">Hritam Dutta<br></h1>
-<h1 align="center">Indian 🇮🇳<br></h1>
+**Cybersecurity Professional | Security Operations | Detection Engineering | Python**
 
-<h2 align="center"> Cyber Security Consultant / SOC Analyst | Deloitte USI </h2>
+I work in Cyber Security (SOC Analyst) at Deloitte USI, with experience spanning security operations, incident investigation, threat hunting, and security risk assessment. My work has strengthened my interest in how security events are investigated, how detection logic is designed, and how technical controls contribute to the security of systems and data.
 
-<p align="center">Passionate about Securing the Digital World 🌐</p>
+I also enjoy building practical projects to explore these challenges through code. I use my projects to strengthen my technical foundations, test my ideas, and develop a deeper understanding of defensive security engineering.
 
-<div align="center"><b><i>Let's Connect 🤝</i><br><br>
+- **Current focus:** Security monitoring, detection engineering, incident investigation, and defensive security automation
+- **Building:** SOC Sentinel, a Python-based security monitoring and incident analysis tool
+- **Interested in:** Network security, systems security, secure system design, and security assurance
+- **Professional experience:** Deloitte USI and PwC India
 
-<a href="https://www.linkedin.com/in/hritam-dutta06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Hritam06" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</div>  
+## Featured Project
 
-<p align="center">
-<a href="https://github.com/Hritam06"><img src="https://img.shields.io/github/followers/Hritam06?style=social"></a>
-</p>
+### 🔎 [SOC Sentinel](https://github.com/Hritam06/soc-sentinel)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hritam06&show_icons=true&theme=github_dark" width="320" />
-</p>
+A Python-based defensive security monitoring and incident analysis project that processes security events, identifies suspicious login activity, correlates related events, and produces investigation-oriented reports.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hritam06&show_icons=true&theme=github_dark&title_color=ab06b7&locale=en&layout=compact" width="318" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritam06&theme=radical" width="320" /> 
-</p>
+**Key capabilities**
 
-<div align="center"> 
-<b><i>Random dev joke ...!!! 👇</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-</div>   
-<!--
-<p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Hritam06&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=false">
-</p>
+- **Event ingestion and normalization:** Processes JSON and JSON Lines security event data, with validation and field alias handling.
+- **Detection logic:** Identifies suspicious login activity using rule-based detection.
+- **Event correlation:** Correlates login failures by source IP and time window to help identify potential brute-force or password-spray patterns.
+- **Risk assessment:** Applies severity-based alert scoring and contextual investigation risk scoring.
+- **Investigation evidence:** Preserves event identifiers to support traceability during analysis.
+- **Incident workflow:** Tracks incident status through defined state transitions.
+- **Reporting:** Generates command-line reports in text and JSON formats.
+
+**Technology stack:** Python, JSON, pytest, Git, GitHub Actions
+
+**Testing and quality:** Automated tests, Python package validation, and continuous integration.
+
+**What I am exploring through this project:** How event normalization, detection rules, correlation, risk scoring, and evidence handling can work together in a structured defensive security workflow.
+
+[Explore the repository](https://github.com/Hritam06/soc-sentinel)
+
+## Professional Interests
+
+- Security Operations Centre (SOC) workflows
+- Security monitoring and detection engineering
+- Incident response and threat hunting
+- Network and systems security
+- Secure systems and defensive security engineering
+- Security assurance, risk assessment, and technical controls
+- Python for security analysis and automation
+
+## Technical Skills
+
+- **Programming:** Python
+- **Security operations:** SIEM monitoring, alert triage, incident investigation, threat hunting, and IOC analysis
+- **Security engineering:** Detection logic, event correlation, security event normalization, and investigation workflows
+- **Security platforms:** ArcSight, Securonix, Google SecOps, CrowdStrike, and Cortex XDR
+- **Data and cloud exposure:** JSON, JSON Lines, AWS security services, and security log analysis
+- **Development and testing:** Git, GitHub, pytest, Python packaging, and GitHub Actions
+
+## Learning and Development
+
+I want to deepen my understanding of cybersecurity beyond day-to-day monitoring and individual security tools. In particular, I am interested in how networked systems are secured, how vulnerabilities and attack patterns are investigated, and how security controls can be designed and evaluated systematically.
+
+I continue to develop my programming and security engineering skills through hands-on projects, structured learning, and practical experimentation. My long-term goal is to contribute to the design, assessment, and improvement of secure systems.
+
+## Certifications
+
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
+- Microsoft Certified: Azure AI Fundamentals (AI-901)
+
+## Let's Connect
+
+I am interested in connecting with people working in cybersecurity, security engineering, network and systems security, and defensive security research.
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hritam-dutta06/)
+- **GitHub:** [Explore my projects](https://github.com/Hritam06)
