@@ -95,7 +95,3 @@ I am interested in connecting with people working in cybersecurity, security eng
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hritam-dutta06/)
 - **GitHub:** [Explore my projects](https://github.com/Hritam06)
-
----
-
-*Collect with care. Verify with confidence.*
