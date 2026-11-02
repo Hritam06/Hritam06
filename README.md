@@ -1,97 +1,138 @@
-# Hi, I am Hritam Dutta 👋
+# Hritam Dutta
 
-**Cybersecurity Professional | Security Operations | Detection Engineering | Python**
+**Cybersecurity Professional | Security Operations | Incident Response | Threat Hunting**
 
-I work in Cyber Security (SOC Analyst) at Deloitte USI, with experience spanning security operations, incident investigation, threat hunting, and security risk assessment. My work has strengthened my interest in how security events are investigated, how detection logic is designed, and how technical controls contribute to the security of systems and data.
+Computer Science graduate with 3+ years of cybersecurity experience across Security Operations, Incident Response, Threat Hunting and Security Risk Assessment. Experienced in SIEM/EDR-based investigations, security monitoring, enterprise application security assessments and access-control risk assessment.
 
-I also enjoy building practical projects to explore these challenges through code. I use my projects to strengthen my technical foundations, test my ideas, and develop a deeper understanding of defensive security engineering.
+My professional experience spans security operations and technology risk at Deloitte USI and PwC India. I am particularly interested in network and systems security, digital forensics, security engineering and cybersecurity assurance.
 
-- **Current focus:** Security monitoring, detection engineering, incident investigation, digital evidence integrity, and defensive security automation
-- **Building:** SOC Sentinel and KASEVRA, Python-based defensive security projects
-- **Interested in:** Network security, systems security, secure system design, and security assurance
-- **Professional experience:** Deloitte USI and PwC India
+- **Current role:** Cyber Security Analyst / SOC Analyst at Deloitte USI
+- **Current focus:** Security monitoring, threat investigations and defensive security engineering
+- **Building:** SOC Sentinel and KASEVRA, independent Python cybersecurity projects
+- **Interested in:** Network security, systems security, digital forensics and security assurance
 
-## Featured Projects
+## Cybersecurity Experience
 
-### 🔎 [SOC Sentinel](https://github.com/Hritam06/soc-sentinel)
+### Deloitte USI | Hyderabad, India
 
-A Python-based defensive security monitoring and incident analysis project that processes security events, identifies suspicious login activity, correlates related events, and produces investigation-oriented reports.
+**Cyber Security Analyst / SOC Analyst**
+*August 2026 - Present*
 
-**Key capabilities**
+- Monitor, triage and investigate security alerts across enterprise environments.
+- Analyse endpoint, server and network telemetry to investigate suspicious activity.
+- Perform threat hunting and indicator-of-compromise analysis.
+- Document findings and escalate incidents in accordance with SOC procedures and service-level expectations.
 
-- **Event ingestion and normalization:** Processes JSON and JSON Lines security event data, with validation and field alias handling.
-- **Detection logic:** Identifies suspicious login activity using rule-based detection.
-- **Event correlation:** Correlates login failures by source IP and time window to help identify potential brute-force or password-spray patterns.
-- **Risk assessment:** Applies severity-based alert scoring and contextual investigation risk scoring.
-- **Investigation evidence:** Preserves event identifiers to support traceability during analysis.
-- **Incident workflow:** Tracks incident status through defined state transitions.
-- **Reporting:** Generates command-line reports in text and JSON formats.
+**Confidentiality & Privacy Risk Analyst**
+*May 2025 - August 2026*
 
-**Technology stack:** Python, JSON, pytest, Git, GitHub Actions
+- Conducted enterprise application security and privacy risk assessments.
+- Reviewed application permissions, Microsoft Graph API access and third-party integrations.
+- Identified potential data exposure, access-control weaknesses and privacy risks.
+- Documented findings and recommended remediation measures.
 
-**Testing and quality:** Automated tests, Python package validation, and continuous integration.
+### PwC India | Kolkata, India
 
-**What I am exploring through this project:** How event normalization, detection rules, correlation, risk scoring, and evidence handling can work together in a structured defensive security workflow.
+**Associate - Cyber Security / SOC Analyst**
+*July 2023 - April 2025*
 
-[Explore the repository](https://github.com/Hritam06/soc-sentinel)
+- Monitored and investigated security alerts across client environments.
+- Performed alert triage, log analysis, IOC analysis and incident investigation.
+- Supported threat hunting, incident escalation and closure within agreed SLAs.
+- Contributed to client communications, junior analyst support and SOC process improvements.
 
-### 🛡️ [KASEVRA | Digital Evidence & Integrity Toolkit](https://github.com/Hritam06/kasevra)
-
-A Python-based command-line toolkit focused on digital evidence collection, integrity verification, baseline comparison, and structured reporting.
-
-**Key capabilities**
-
-- **Evidence collection:** Collects selected files and generates a SHA-256 hash manifest.
-- **Baseline creation:** Creates reference baselines from collected evidence manifests.
-- **Integrity analysis:** Compares collected evidence against a reference baseline to identify changes.
-- **Hash verification:** Recalculates SHA-256 hashes and verifies file integrity against the manifest.
-- **Reporting:** Generates structured JSON and HTML reports.
-- **Environment diagnostics:** Checks local Python and runtime readiness.
-- **Terminal dashboard:** Provides a Rich-powered command-centre view with workflow guidance and quick-start commands.
-
-**Technology stack:** Python, SHA-256, Typer, Rich, pytest, Git, GitHub Actions
-
-**Testing and quality:** Automated test suite, linting, formatting checks, package builds, and cross-platform continuous integration.
-
-**What I am exploring through this project:** How evidence collection, cryptographic hashing, integrity verification, and baseline comparison can support a structured and reproducible digital evidence workflow.
-
-[Explore the repository](https://github.com/Hritam06/kasevra)
-
-## Professional Interests
+## Technical Areas of Interest
 
 - Security Operations Centre (SOC) workflows
 - Security monitoring and detection engineering
 - Incident response and threat hunting
 - Network and systems security
 - Digital forensics and evidence integrity
+- Security risk assessment and assurance
 - Secure systems and defensive security engineering
-- Security assurance, risk assessment, and technical controls
 - Python for security analysis and automation
 
-## Technical Skills
+## Featured Projects
 
-- **Programming:** Python
-- **Security operations:** SIEM monitoring, alert triage, incident investigation, threat hunting, and IOC analysis
-- **Security engineering:** Detection logic, event correlation, security event normalization, and investigation workflows
-- **Digital evidence:** SHA-256 hashing, evidence collection, integrity verification, and baseline comparison
-- **Security platforms:** ArcSight, Securonix, Google SecOps, CrowdStrike, and Cortex XDR
-- **Data and cloud exposure:** JSON, JSON Lines, AWS security services, and security log analysis
-- **Development and testing:** Git, GitHub, pytest, Python packaging, Typer, Rich, and GitHub Actions
+### [SOC Sentinel](https://github.com/Hritam06/soc-sentinel)
+**Python-Based Security Monitoring | v1.0.0**
 
-## Learning and Development
+A Python-based security monitoring pipeline for security-event ingestion, normalisation, detection of suspicious authentication activity, event correlation and investigation reporting.
 
-I want to deepen my understanding of cybersecurity beyond day-to-day monitoring and individual security tools. In particular, I am interested in how networked systems are secured, how vulnerabilities and attack patterns are investigated, and how security controls can be designed and evaluated systematically.
+**Key capabilities**
+- JSON and JSON Lines event ingestion, validation and normalisation.
+- Rule-based detection of suspicious authentication activity.
+- Brute-force and password-spray pattern identification.
+- Event correlation using source IP and configurable time windows.
+- Severity-based alert scoring and contextual investigation risk scoring.
+- Evidence-aware findings, incident tracking and CLI reporting.
 
-I continue to develop my programming and security engineering skills through hands-on projects, structured learning, and practical experimentation. My long-term goal is to contribute to the design, assessment, and improvement of secure systems.
+**Technologies:** Python, Pydantic, JSON, pytest, GitHub Actions.
+
+[Repository](https://github.com/Hritam06/soc-sentinel) | [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) | [v1.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v1.0.0)
+
+### [KASEVRA - Digital Evidence & Integrity Toolkit](https://github.com/Hritam06/kasevra)
+**Offline-First Digital Evidence Toolkit | v1.0.0**
+
+An offline-first Python toolkit for file-level digital evidence collection, SHA-256 integrity verification, baseline comparison and structured forensic reporting.
+
+**Key capabilities**
+- File-level evidence collection and SHA-256 manifest generation.
+- Reference baseline creation and comparison.
+- Independent file-integrity verification.
+- Structured JSON and HTML report generation.
+- Environment diagnostics for local Python and runtime readiness.
+- Rich-powered terminal dashboard with workflow guidance and quick-start commands.
+- Read-only evidence handling and safeguards against accidental output overwrites.
+
+**Technologies:** Python, SHA-256, Typer, Rich, pytest, Ruff, GitHub Actions.
+
+**Quality checks:** Automated tests, linting, formatting checks, package builds and cross-platform CI.
+
+[Repository](https://github.com/Hritam06/kasevra) | [Documentation](https://github.com/Hritam06/kasevra/blob/main/README.md) | [v1.0.0 Release](https://github.com/Hritam06/kasevra/releases/tag/v1.0.0)
 
 ## Certifications
 
-- Microsoft Certified: Security Operations Analyst Associate (SC-200)
-- Microsoft Certified: Azure AI Fundamentals (AI-901)
+- [Microsoft Certified: Cybersecurity Architect Expert (SC-100)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/4694B4ED07E2C6C7?sharingId=8B815602754225CD) - November 2026
+- [Microsoft Certified: Security Operations Analyst Associate (SC-200)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/AD228EF2176A5E0E?sharingId=8B815602754225CD) - October 2026
+- [Microsoft Certified: Azure AI Fundamentals (AI-901)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/9B0992F3CB5BFD5?sharingId=8B815602754225CD) - October 2026
 
-## Let's Connect
+## Technical Tools & Technologies
 
-I am interested in connecting with people working in cybersecurity, security engineering, network and systems security, and defensive security research.
+**Security monitoring and SIEM:**
+Google SecOps, Splunk, Microsoft Sentinel, ArcSight, Securonix
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hritam-dutta06/)
-- **GitHub:** [Explore my projects](https://github.com/Hritam06)
+**Endpoint security and EDR:**
+Microsoft Defender, CrowdStrike, SentinelOne, Cortex XDR
+
+**Security disciplines:**
+Incident response, alert triage, threat hunting, IOC analysis, log analysis, detection and investigation
+
+**Programming and development:**
+Python, JSON, Git, GitHub, pytest, GitHub Actions
+
+**Digital evidence and integrity:**
+SHA-256, evidence collection, hash verification, baseline comparison, structured reporting
+
+**Foundations:**
+Computer networks, operating systems, cryptography, cloud computing and cybersecurity
+
+## Education
+
+**Bachelor of Technology - Computer Science and Engineering**
+B. P. Poddar Institute of Management and Technology
+Affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal
+*August 2019 - July 2023*
+
+**CGPA:** 9.14 / 10
+
+Relevant coursework: Computer Networks, Operating Systems, Computer Architecture, Distributed Systems, Cyber Security, Cryptography and Network Security, Data Structures and Algorithms, and Cloud Computing.
+
+## Portfolio & Contact
+
+- **Portfolio:** [hritam06.github.io/hritam-portfolio](https://hritam06.github.io/hritam-portfolio/)
+- **LinkedIn:** [linkedin.com/in/hritam-dutta06](https://www.linkedin.com/in/hritam-dutta06/)
+- **GitHub:** [github.com/Hritam06](https://github.com/Hritam06)
+- **Email:** [hritam.dutta.official@gmail.com](mailto:hritam.dutta.official@gmail.com)
+
+I welcome conversations about cybersecurity, security engineering, network and systems security, digital forensics and defensive security research.
