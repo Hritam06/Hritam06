@@ -55,41 +55,48 @@ My professional experience spans security operations and technology risk at Delo
 ## Featured Projects
 
 ### [SOC Sentinel](https://github.com/Hritam06/soc-sentinel)
-**Python-Based Security Monitoring | v1.0.0**
+**Python Security Monitoring & Detection Toolkit | v2.0.0**
 
-A Python-based security monitoring pipeline for security-event ingestion, normalisation, detection of suspicious authentication activity, event correlation and investigation reporting.
+A Python-based defensive security toolkit for ingesting and normalizing security events, detecting suspicious authentication, network and DNS activity, correlating related events, and generating structured investigation reports.
 
 **Key capabilities**
-- JSON and JSON Lines event ingestion, validation and normalisation.
-- Rule-based detection of suspicious authentication activity.
-- Brute-force and password-spray pattern identification.
-- Event correlation using source IP and configurable time windows.
-- Severity-based alert scoring and contextual investigation risk scoring.
-- Evidence-aware findings, incident tracking and CLI reporting.
+- JSON and JSONL event ingestion, validation and normalization.
+- Authentication detections covering brute-force-like activity, password spraying, failure-then-success sequences, multi-source account targeting and authentication bursts.
+- Network and DNS heuristics for port-scan-like activity, connection fan-out and unusually long or high-entropy DNS queries.
+- Configurable detection thresholds, allowlists, severity overrides and suppression using JSON/YAML settings.
+- Cross-event correlation, structured alerts and duplicate suppression.
+- Heuristic investigation risk assessment and MITRE ATT&CK technique mappings.
+- Structured JSON and self-contained HTML reporting.
+- Synthetic dataset and rule-presence evaluation tooling.
+- Backward-compatible V1 CLI with an opt-in V2 investigation pipeline.
 
-**Technologies:** Python, Pydantic, JSON, pytest, GitHub Actions.
+**Technologies:** Python, Pydantic, PyYAML, JSON, pytest, GitHub Actions.
 
-[Repository](https://github.com/Hritam06/soc-sentinel) | [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) | [v1.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v1.0.0)
+**Validation:** 123 local tests passed; GitHub Actions passed on Python 3.11 and 3.12. Wheel and source distribution built successfully.
+
+[Repository](https://github.com/Hritam06/soc-sentinel) | [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) | [v2.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v2.0.0)
 
 ### [KASEVRA - Digital Evidence & Integrity Toolkit](https://github.com/Hritam06/kasevra)
-**Offline-First Digital Evidence Toolkit | v1.0.0**
+**Offline-First Digital Evidence & Integrity Toolkit | v2.0.0**
 
-An offline-first Python toolkit for file-level digital evidence collection, SHA-256 integrity verification, baseline comparison and structured forensic reporting.
+An offline-first, file-level Python toolkit for digital evidence acquisition, SHA-256 integrity verification, baseline comparison, cryptographic signatures, chain-of-custody records and structured forensic reporting.
 
 **Key capabilities**
-- File-level evidence collection and SHA-256 manifest generation.
+- Selected-file evidence acquisition with streamed SHA-256 hashing.
+- Versioned V2 evidence manifest schema with canonical serialization and digest validation.
+- Independent integrity verification identifying matching, modified, missing, unexpected and errored evidence.
 - Reference baseline creation and comparison.
-- Independent file-integrity verification.
-- Structured JSON and HTML report generation.
-- Environment diagnostics for local Python and runtime readiness.
-- Rich-powered terminal dashboard with workflow guidance and quick-start commands.
-- Read-only evidence handling and safeguards against accidental output overwrites.
+- Ed25519 key management and detached manifest signatures.
+- Hash-linked chain-of-custody events with append and validation helpers.
+- Structured JSON and HTML reporting.
+- Existing V1 CLI preserved for backward compatibility, with V2 capabilities available through programmatic Python APIs.
+- Offline-first operation and security-conscious evidence handling.
 
-**Technologies:** Python, SHA-256, Typer, Rich, pytest, Ruff, GitHub Actions.
+**Technologies:** Python, SHA-256, Ed25519, cryptography, Typer, Rich, pytest, Ruff, GitHub Actions.
 
-**Quality checks:** Automated tests, linting, formatting checks, package builds and cross-platform CI.
+**Validation:** 145 tests passed, 1 platform-specific test skipped locally. Cross-platform CI passed across Ubuntu, macOS and Windows with Python 3.11–3.14. Wheel and source distribution built and passed package validation.
 
-[Repository](https://github.com/Hritam06/kasevra) | [Documentation](https://github.com/Hritam06/kasevra/blob/main/README.md) | [v1.0.0 Release](https://github.com/Hritam06/kasevra/releases/tag/v1.0.0)
+[Repository](https://github.com/Hritam06/kasevra) | [Documentation](https://github.com/Hritam06/kasevra/blob/main/README.md) | [v2.0.0 Release](https://github.com/Hritam06/kasevra/releases/tag/v2.0.0)
 
 ## Certifications
 
