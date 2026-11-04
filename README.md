@@ -11,11 +11,15 @@ My professional experience spans security operations and technology risk at Delo
 - **Building:** SOC Sentinel and KASEVRA, independent Python cybersecurity projects
 - **Interested in:** Network security, systems security, digital forensics and security assurance
 
-## Cybersecurity Experience
+[Portfolio](https://hritam06.github.io/hritam-portfolio/) · [LinkedIn](https://www.linkedin.com/in/hritam-dutta06/) · [GitHub](https://github.com/Hritam06) · [Email](mailto:hritam.dutta.official@gmail.com)
+
+---
+
+## Professional Experience
 
 ### Deloitte USI | Hyderabad, India
 
-**Cyber Security Analyst / SOC Analyst**
+**Cyber Security Analyst / SOC Analyst**  
 *August 2026 - Present*
 
 - Monitor, triage and investigate security alerts across enterprise environments.
@@ -23,7 +27,7 @@ My professional experience spans security operations and technology risk at Delo
 - Perform threat hunting and indicator-of-compromise analysis.
 - Document findings and escalate incidents in accordance with SOC procedures and service-level expectations.
 
-**Confidentiality & Privacy Risk Analyst**
+**Confidentiality & Privacy Risk Analyst**  
 *May 2025 - August 2026*
 
 - Conducted enterprise application security and privacy risk assessments.
@@ -33,13 +37,15 @@ My professional experience spans security operations and technology risk at Delo
 
 ### PwC India | Kolkata, India
 
-**Associate - Cyber Security / SOC Analyst**
+**Associate - Cyber Security / SOC Analyst**  
 *July 2023 - April 2025*
 
 - Monitored and investigated security alerts across client environments.
 - Performed alert triage, log analysis, IOC analysis and incident investigation.
 - Supported threat hunting, incident escalation and closure within agreed SLAs.
 - Contributed to client communications, junior analyst support and SOC process improvements.
+
+---
 
 ## Technical Areas of Interest
 
@@ -52,14 +58,21 @@ My professional experience spans security operations and technology risk at Delo
 - Secure systems and defensive security engineering
 - Python for security analysis and automation
 
+---
+
 ## Featured Projects
 
-### [SOC Sentinel](https://github.com/Hritam06/soc-sentinel)
-**Python Security Monitoring & Detection Toolkit | v2.0.0**
+Independent cybersecurity projects focused on practical security engineering, defensive analysis and digital evidence integrity.
+
+### 01. [SOC Sentinel](https://github.com/Hritam06/soc-sentinel)
+
+**Python Security Monitoring & Detection Toolkit** · **v2.0.0**  
+<sub>Security Operations · Detection Engineering · Incident Investigation</sub>
 
 A Python-based defensive security toolkit for ingesting and normalizing security events, detecting suspicious authentication, network and DNS activity, correlating related events, and generating structured investigation reports.
 
-**Key capabilities**
+**Key Capabilities**
+
 - JSON and JSONL event ingestion, validation and normalization.
 - Authentication detections covering brute-force-like activity, password spraying, failure-then-success sequences, multi-source account targeting and authentication bursts.
 - Network and DNS heuristics for port-scan-like activity, connection fan-out and unusually long or high-entropy DNS queries.
@@ -70,18 +83,23 @@ A Python-based defensive security toolkit for ingesting and normalizing security
 - Synthetic dataset and rule-presence evaluation tooling.
 - Backward-compatible V1 CLI with an opt-in V2 investigation pipeline.
 
-**Technologies:** Python, Pydantic, PyYAML, JSON, pytest, GitHub Actions.
+**Technology Stack:** Python, Pydantic, PyYAML, JSON, pytest, GitHub Actions.
 
 **Validation:** 123 local tests passed; GitHub Actions passed on Python 3.11 and 3.12. Wheel and source distribution built successfully.
 
-[Repository](https://github.com/Hritam06/soc-sentinel) | [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) | [v2.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v2.0.0)
+**Project Resources:** [Repository](https://github.com/Hritam06/soc-sentinel) · [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) · [v2.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v2.0.0)
 
-### [KASEVRA - Digital Evidence & Integrity Toolkit](https://github.com/Hritam06/kasevra)
-**Offline-First Digital Evidence & Integrity Toolkit | v2.0.0**
+---
+
+### 02. [KASEVRA - Digital Evidence & Integrity Toolkit](https://github.com/Hritam06/kasevra)
+
+**Offline-First Digital Evidence & Integrity Toolkit** · **v2.0.0**  
+<sub>Digital Forensics · Evidence Integrity · Forensic Reporting</sub>
 
 An offline-first, file-level Python toolkit for digital evidence acquisition, SHA-256 integrity verification, baseline comparison, cryptographic signatures, chain-of-custody records and structured forensic reporting.
 
-**Key capabilities**
+**Key Capabilities**
+
 - Selected-file evidence acquisition with streamed SHA-256 hashing.
 - Versioned V2 evidence manifest schema with canonical serialization and digest validation.
 - Independent integrity verification identifying matching, modified, missing, unexpected and errored evidence.
@@ -92,48 +110,56 @@ An offline-first, file-level Python toolkit for digital evidence acquisition, SH
 - Existing V1 CLI preserved for backward compatibility, with V2 capabilities available through programmatic Python APIs.
 - Offline-first operation and security-conscious evidence handling.
 
-**Technologies:** Python, SHA-256, Ed25519, cryptography, Typer, Rich, pytest, Ruff, GitHub Actions.
+**Technology Stack:** Python, SHA-256, Ed25519, cryptography, Typer, Rich, pytest, Ruff, GitHub Actions.
 
 **Validation:** 145 tests passed, 1 platform-specific test skipped locally. Cross-platform CI passed across Ubuntu, macOS and Windows with Python 3.11–3.14. Wheel and source distribution built and passed package validation.
 
-[Repository](https://github.com/Hritam06/kasevra) | [Documentation](https://github.com/Hritam06/kasevra/blob/main/README.md) | [v2.0.0 Release](https://github.com/Hritam06/kasevra/releases/tag/v2.0.0)
+**Project Resources:** [Repository](https://github.com/Hritam06/kasevra) · [Documentation](https://github.com/Hritam06/kasevra/blob/main/README.md) · [v2.0.0 Release](https://github.com/Hritam06/kasevra/releases/tag/v2.0.0)
+
+---
 
 ## Certifications
 
-- [Microsoft Certified: Cybersecurity Architect Expert (SC-100)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/4694B4ED07E2C6C7?sharingId=8B815602754225CD) - November 2026
-- [Microsoft Certified: Security Operations Analyst Associate (SC-200)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/AD228EF2176A5E0E?sharingId=8B815602754225CD) - October 2026
-- [Microsoft Certified: Azure AI Fundamentals (AI-901)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/9B0992F3CB5BFD5?sharingId=8B815602754225CD) - October 2026
+- [Microsoft Certified: Cybersecurity Architect Expert (SC-100)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/4694B4ED07E2C6C7?sharingId=8B815602754225CD) · November 2026
+- [Microsoft Certified: Security Operations Analyst Associate (SC-200)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/AD228EF2176A5E0E?sharingId=8B815602754225CD) · October 2026
+- [Microsoft Certified: Azure AI Fundamentals (AI-901)](https://learn.microsoft.com/api/credentials/share/en-us/HritamDutta06/9B0992F3CB5BFD5?sharingId=8B815602754225CD) · October 2026
+
+---
 
 ## Technical Tools & Technologies
 
-**Security monitoring and SIEM:**
+**Security Monitoring & SIEM**  
 Google SecOps, Splunk, Microsoft Sentinel, ArcSight, Securonix
 
-**Endpoint security and EDR:**
+**Endpoint Security & EDR**  
 Microsoft Defender, CrowdStrike, SentinelOne, Cortex XDR
 
-**Security disciplines:**
+**Security Disciplines**  
 Incident response, alert triage, threat hunting, IOC analysis, log analysis, detection and investigation
 
-**Programming and development:**
+**Programming & Development**  
 Python, JSON, Git, GitHub, pytest, GitHub Actions
 
-**Digital evidence and integrity:**
+**Digital Evidence & Integrity**  
 SHA-256, evidence collection, hash verification, baseline comparison, structured reporting
 
-**Foundations:**
+**Foundations**  
 Computer networks, operating systems, cryptography, cloud computing and cybersecurity
+
+---
 
 ## Education
 
-**Bachelor of Technology - Computer Science and Engineering**
-B. P. Poddar Institute of Management and Technology
-Affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal
+**Bachelor of Technology - Computer Science and Engineering**  
+B. P. Poddar Institute of Management and Technology  
+Affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal  
 *August 2019 - July 2023*
 
 **CGPA:** 9.14 / 10
 
 Relevant coursework: Computer Networks, Operating Systems, Computer Architecture, Distributed Systems, Cyber Security, Cryptography and Network Security, Data Structures and Algorithms, and Cloud Computing.
+
+---
 
 ## Portfolio & Contact
 
