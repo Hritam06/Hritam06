@@ -66,29 +66,31 @@ Independent cybersecurity projects focused on practical security engineering, de
 
 ### 01. [SOC Sentinel](https://github.com/Hritam06/soc-sentinel)
 
-**Python Security Monitoring & Detection Toolkit** · **v2.0.0**  
-<sub>Security Operations · Detection Engineering · Incident Investigation</sub>
+**Python Security Monitoring, Detection & Investigation Toolkit** · **v3.0.0**  
+<sub>Security Operations · Detection Engineering · Event Correlation · Investigation Reporting</sub>
 
-A Python-based defensive security toolkit for ingesting and normalizing security events, detecting suspicious authentication, network and DNS activity, correlating related events, and generating structured investigation reports.
+A Python-based defensive security-monitoring pipeline that ingests and normalizes JSON/JSONL security events, applies heuristic authentication, network and DNS detections, correlates related activity, and produces structured investigation reports with traceable alert evidence.
 
 **Key Capabilities**
 
-- JSON and JSONL event ingestion, validation and normalization.
-- Authentication detections covering brute-force-like activity, password spraying, failure-then-success sequences, multi-source account targeting and authentication bursts.
-- Network and DNS heuristics for port-scan-like activity, connection fan-out and unusually long or high-entropy DNS queries.
-- Configurable detection thresholds, allowlists, severity overrides and suppression using JSON/YAML settings.
-- Cross-event correlation, structured alerts and duplicate suppression.
-- Heuristic investigation risk assessment and MITRE ATT&CK technique mappings.
-- Structured JSON and self-contained HTML reporting.
-- Synthetic dataset and rule-presence evaluation tooling.
-- Backward-compatible V1 CLI with an opt-in V2 investigation pipeline.
+- Validated event ingestion and normalization, retaining source-event context and raw event data.
+- Eight heuristic detection rules across authentication, network and DNS activity: brute-force-like login attempts, password spraying, failure-then-success sequences, multi-source account targeting, authentication bursts, port scanning, connection fan-out and suspicious DNS queries.
+- Event-level alert provenance for supported detections, including event identifiers, source and target entities, triggering conditions, evidence context and recommended actions where supplied.
+- Cross-event investigation correlation for supported authentication and network-activity relationships.
+- Validated JSON/YAML configuration, environment-variable overrides, configurable thresholds and investigation windows, allowlists, severity overrides and process-local duplicate suppression.
+- Explainable heuristic risk scoring with explicit asset-criticality and attack-progression inputs; these values are not automatically inferred by the CLI.
+- Structured alerts and self-contained JSON/HTML investigation reporting, with relevant MITRE ATT&CK technique mappings.
+- Reproducible labelled synthetic evaluation using event-ID matching and per-rule classification metrics.
 
-**Technology Stack:** Python, Pydantic, PyYAML, JSON, pytest, GitHub Actions.
+**Technology Stack:** Python 3.11+, Pydantic, PyYAML, JSON, YAML, pytest, GitHub Actions.
 
-**Validation:** 123 local tests passed; GitHub Actions passed on Python 3.11 and 3.12. Wheel and source distribution built successfully.
+**Validation:** 161 local tests passed on Python 3.14.8; GitHub Actions passed on Python 3.11 and 3.12. Dependency consistency and byte-compilation checks passed; wheel and source distribution built successfully.
 
-**Project Resources:** [Repository](https://github.com/Hritam06/soc-sentinel) · [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) · [v2.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v2.0.0)
+**Synthetic Evaluation:** The supplied evaluation covers 46 labelled synthetic events and six detection rules. It records 36 TP, 0 FP, 0 FN and 240 rule/event TN classifications, with precision, recall and F1 of 1.0 on these controlled scenarios. The 240 TN figure is a sum across rule-level classifications, not 240 distinct benign events. These results do not establish production detection effectiveness or generalization to real-world telemetry.
 
+**Scope & Limitations:** SOC Sentinel is an investigation aid, not a complete production SIEM. Detection outputs are investigative signals, not proof of compromise. Suppression is process-local; the project does not provide a durable database-backed alert store, role-based access control or packet inspection.
+
+**Project Resources:** [Repository](https://github.com/Hritam06/soc-sentinel) · [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) · [Evaluation Methodology](https://github.com/Hritam06/soc-sentinel/blob/main/docs/EVALUATION.md) · [V3.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v3.0.0)
 ---
 
 ### 02. [KASEVRA - Digital Evidence & Integrity Toolkit](https://github.com/Hritam06/kasevra)
