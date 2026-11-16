@@ -86,7 +86,7 @@ A Python-based defensive security-monitoring pipeline that ingests and normalize
 
 **Validation:** 161 local tests passed on Python 3.14.8; GitHub Actions passed on Python 3.11 and 3.12. Dependency consistency and byte-compilation checks passed. Wheel and source distribution built successfully.
 
-**Project Resources:** [Repository](https://github.com/Hritam06/soc-sentinel) · [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) · [Evaluation Methodology](https://github.com/Hritam06/soc-sentinel/blob/main/docs/EVALUATION.md) · [v3.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v3.0.0)
+<sub>**Project Resources:** [Repository](https://github.com/Hritam06/soc-sentinel) · [Documentation](https://github.com/Hritam06/soc-sentinel/blob/main/README.md) · [Evaluation Methodology](https://github.com/Hritam06/soc-sentinel/blob/main/docs/EVALUATION.md) · [v3.0.0 Release](https://github.com/Hritam06/soc-sentinel/releases/tag/v3.0.0)</sub>
 ---
 
 ### 02. [KASEVRA - Digital Evidence & Integrity Toolkit](https://github.com/Hritam06/kasevra)
