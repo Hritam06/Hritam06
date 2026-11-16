@@ -2,9 +2,9 @@
 
 **Cybersecurity Professional | Computer Science Graduate | Security Operations & Defensive Security Engineering**
 
-Computer Science graduate with a **9.14/10 CGPA** and more than three years of professional experience in cybersecurity across security operations, incident response, threat hunting and technology risk. My work has included SIEM/EDR-based investigations, security monitoring, enterprise application security and access-control risk assessment.
+Computer Science graduate with a **9.14/10 CGPA** and more than three years of professional experience across security operations, incident response, threat hunting and technology risk. My experience includes SIEM/EDR-based investigations, security monitoring, enterprise application security and access-control risk assessment.
 
-I combine practical SOC experience with independent Python projects in security monitoring, detection engineering and digital evidence integrity. My academic and technical interests include network and systems security, cybersecurity engineering, digital forensics and security assurance.
+Alongside my professional work, I develop independent Python cybersecurity tools addressing security-event analysis and digital evidence integrity. I am interested in advancing my understanding of network and systems security, dependable detection methods, investigation traceability and the integrity of digital evidence.
 
 [Portfolio](https://hritam06.github.io/hritam-portfolio/) · [LinkedIn](https://www.linkedin.com/in/hritam-dutta06/) · [GitHub](https://github.com/Hritam06) · [Email](mailto:hritam.dutta.official@gmail.com)
 
@@ -25,12 +25,13 @@ Relevant coursework: Computer Networks, Operating Systems, Computer Architecture
 
 ## Academic & Research Interests
 
-- Network and systems security
-- Security monitoring and detection engineering
-- Intrusion detection and incident investigation
-- Digital forensics and evidence integrity
-- Secure systems and defensive security engineering
-- Cybersecurity risk assessment and assurance
+My interests centre on the reliability and investigation of security events across networked and computer systems. I am particularly interested in:
+
+- **Network and systems security:** understanding system and network behaviour, attack surfaces and defensive controls.
+- **Detection engineering:** developing and evaluating methods for identifying suspicious authentication, network and DNS activity, including their limitations.
+- **Digital forensics and evidence integrity:** preserving event provenance, verifying evidence integrity and supporting traceable investigations.
+
+These interests connect my academic foundation in computer science with my professional experience in security operations and my independent project work.
 
 ---
 
@@ -43,18 +44,17 @@ Independent Python cybersecurity projects focused on defensive security engineer
 **Python Security Monitoring, Detection & Investigation Toolkit** · **v3.0.0**  
 <sub>Security Operations · Detection Engineering · Event Correlation · Investigation Reporting</sub>
 
-A defensive security-monitoring pipeline that ingests and normalizes JSON/JSONL security events, applies heuristic authentication, network and DNS detections, correlates related activity, and produces structured investigation reports with traceable alert evidence.
+SOC Sentinel addresses the practical problem of turning heterogeneous security-event records into structured, traceable findings for investigation. The V3.0.0 pipeline validates and normalizes JSON/JSONL events, applies heuristic authentication, network and DNS detections, correlates supported activity and generates investigation reports.
 
 **Key Capabilities**
 
-- Validated event ingestion and normalization, retaining source-event context and raw event data.
-- Eight heuristic detection rules across authentication, network and DNS activity: brute-force-like login attempts, password spraying, failure-then-success sequences, multi-source account targeting, authentication bursts, port scanning, connection fan-out and suspicious DNS queries.
-- Event-level alert provenance for supported detections, including event identifiers, source and target entities, triggering conditions, evidence context and recommended actions where supplied.
-- Cross-event investigation correlation for supported authentication and network-activity relationships.
+- Eight heuristic detection rules covering brute-force-like login attempts, password spraying, failure-then-success sequences, multi-source account targeting, authentication bursts, port scanning, connection fan-out and suspicious DNS queries.
+- Event-level provenance for supported alerts, retaining event identifiers, source and target context, triggering conditions and evidence details.
+- Cross-event correlation for supported authentication and network-activity relationships.
 - Validated JSON/YAML configuration, environment-variable overrides, configurable thresholds and investigation windows, allowlists, severity overrides and process-local duplicate suppression.
-- Explainable heuristic risk scoring with explicit asset-criticality and attack-progression inputs; these values are not automatically inferred by the CLI.
-- Structured alerts and self-contained JSON/HTML investigation reporting, with relevant MITRE ATT&CK technique mappings.
-- Reproducible evaluation against 46 labelled synthetic events across six detection rules. The supplied scenarios record precision, recall and F1 of 1.0; these controlled results do not establish production detection effectiveness.
+- Explainable heuristic risk scoring with explicit asset-criticality and attack-progression inputs; these are not automatically inferred by the CLI.
+- Structured JSON and self-contained HTML reporting, with relevant MITRE ATT&CK technique mappings.
+- A reproducible evaluation runner that matches predictions to labels by event ID across six rules. The supplied dataset contains 46 labelled synthetic events; its perfect precision, recall and F1 results apply only to those controlled scenarios and do not establish production detection effectiveness.
 
 **Technology Stack:** Python 3.11+, Pydantic, PyYAML, JSON, YAML, pytest, GitHub Actions.
 
@@ -69,19 +69,20 @@ A defensive security-monitoring pipeline that ingests and normalizes JSON/JSONL 
 **Offline-First Digital Evidence & Integrity Toolkit** · **v2.0.0**  
 <sub>Digital Forensics · Evidence Integrity · Forensic Reporting</sub>
 
-An offline-first, file-level Python toolkit for digital evidence acquisition, SHA-256 integrity verification, baseline comparison, cryptographic signatures, chain-of-custody records and structured forensic reporting.
+KASEVRA addresses file-level evidence handling by providing an offline-first workflow to acquire selected files, record their SHA-256 hashes, verify collected content and compare it with reference baselines. Its V2.0.0 programmatic API extends this workflow with signed manifests, hash-linked custody records and structured reports.
 
 **Key Capabilities**
 
-- Selected-file evidence acquisition with streamed SHA-256 hashing.
-- Versioned V2 evidence manifest schema with canonical serialization and digest validation.
-- Independent integrity verification identifying matching, modified, missing, unexpected and errored evidence.
+- Selected-file acquisition with streamed SHA-256 hashing and a versioned evidence manifest.
+- Canonical manifest serialization and digest validation.
+- Independent verification that distinguishes matching, modified, missing, unexpected and errored evidence.
 - Reference baseline creation and comparison.
-- Ed25519 key management and detached manifest signatures.
+- Ed25519 key management and detached signatures over manifest bytes.
 - Hash-linked chain-of-custody events with append and validation helpers.
 - Structured JSON and HTML reporting.
-- Existing V1 CLI preserved for backward compatibility, with V2 capabilities available through programmatic Python APIs.
-- Offline-first operation and security-conscious evidence handling.
+- V1 command-line interface retained for backward compatibility; V2 capabilities are exposed through programmatic Python APIs.
+
+A matching hash supports an integrity comparison; it does not independently establish evidence authenticity, provenance or legal admissibility.
 
 **Technology Stack:** Python, SHA-256, Ed25519, cryptography, Typer, Rich, pytest, Ruff, GitHub Actions.
 
